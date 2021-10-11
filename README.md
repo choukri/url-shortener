@@ -1,7 +1,7 @@
 # url-shortener
 Project Spring boot that transform a full URL and generate a shortened URL. and from a previously generated shortened URL, provide the full (original) URL. 
 
-I use in technology (Spring boot, Redis)
+I use in technology (Spring boot, Redis and MurmurHash3)
 
 #Testing urlShortener
 
